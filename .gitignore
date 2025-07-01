@@ -1,0 +1,21 @@
+# Bỏ qua file biên dịch Python
+__pycache__/
+*.pyc
+*.pyo
+
+# File backup và tạm
+*.log
+*.tmp
+*.bak
+
+# Bỏ qua file hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Nếu dùng IDE như VSCode hoặc PyCharm
+.vscode/
+.idea/
+
+# Nếu có thư mục build tạm thời
+build/
+dist/

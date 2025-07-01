@@ -1,0 +1,58 @@
+[
+  {
+    "sbd": "120137",
+    "class": "12A1",
+    "timestamp": "2025-05-07 22:59:46",
+    "date": "2025-05-07",
+    "context": "exam",
+    "type": "manual"
+  },
+  {
+    "sbd": "120008",
+    "class": "12A1",
+    "timestamp": "2025-05-08 00:19:09",
+    "date": "2025-05-08",
+    "context": "regular",
+    "type": "scan"
+  },
+  {
+    "sbd": "120001",
+    "class": "12A1",
+    "timestamp": "2025-05-08 00:19:18",
+    "date": "2025-05-08",
+    "context": "regular",
+    "type": "scan"
+  },
+  {
+    "sbd": "120027",
+    "class": "12A1",
+    "timestamp": "2025-05-08 00:19:26",
+    "date": "2025-05-08",
+    "context": "regular",
+    "type": "scan"
+  },
+  {
+    "sbd": "120137",
+    "class": "12A1",
+    "timestamp": "2025-05-08 00:19:33",
+    "date": "2025-05-08",
+    "context": "regular",
+    "type": "scan"
+  },
+  {
+    "sbd": "120156",
+    "class": "12A3",
+    "timestamp": "2025-05-08 19:56:28",
+    "date": "2025-05-08",
+    "context": "regular",
+    "type": "manual"
+  },
+  {
+    "sbd": "120156",
+    "class": "12A3",
+    "timestamp": "2025-05-08 19:56:48",
+    "date": "2025-05-08",
+    "context": "exam",
+    "type": "manual"
+  }
+]

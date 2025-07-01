@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Kiểm tra",
+    "date": "2025-05-09",
+    "time": "",
+    "description": "",
+    "type": "Kiểm tra",
+    "target_class": "12A1",
+    "id": "evt_1746713486292_admin_205",
+    "creator_id": "admin",
+    "timestamp_created": "2025-05-08 21:11:26"
+  },
+  {
+    "title": "Đi chơi Đầm Sen",
+    "date": "2025-05-14",
+    "time": "",
+    "description": "",
+    "type": "Ngoại khóa",
+    "target_class": "__ALL__",
+    "id": "evt_1746713705302_admin_764",
+    "creator_id": "admin",
+    "timestamp_created": "2025-05-08 21:15:05"
+  }
+]
