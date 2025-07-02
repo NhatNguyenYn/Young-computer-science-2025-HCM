@@ -45,7 +45,7 @@ Hệ thống này giúp tổ chức và quản lý sự kiện học đường v
 
 ## 🚀 How to Run / Cách chạy chương trình
 
-1. Make sure you have Python 3.x and pip installed | Đảm bảo đã cài Python 3.x và pip
+1. Make sure you have Python 3.x and pip installed / Đảm bảo đã cài Python 3.x và pip
 
 2. Install required libraries / Cài các thư viện cần thiết: pip install opencv-python pillow pandas
 3. Run the application / Chạy ứng dụng: python main_app.py
