@@ -50,6 +50,9 @@ Hệ thống này giúp tổ chức và quản lý sự kiện học đường v
 2. Install required libraries / Cài các thư viện cần thiết: pip install opencv-python pillow pandas
 3. Run the application / Chạy ứng dụng: python main_app.py
 
+## 📁 Folder Structure / Cấu trúc thư mục
+
+```plaintext
 Young computer science 2025 HCM/
 ├── main_app.py                 # Main execution file / File chạy chính
 ├── *.py                        # Functional modules / Các module chức năng
@@ -60,5 +63,6 @@ Young computer science 2025 HCM/
 ├── data/                       # Config data / Dữ liệu cấu hình (nếu có)
 ├── README.md                   # Project description / Mô tả dự án
 └── .gitignore                  # Files to ignore when pushing / Bỏ qua file không cần push
+```
 
 Tác giả nnYunaXYZ
